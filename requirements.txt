@@ -1,0 +1,13 @@
+groq
+
+gradio
+
+langchain-community
+langchainhub
+langchain-chroma
+langchain-groq
+langchain-huggingface
+unstructured[docx]
+sentence-transformers
+
+numpy==1.26.4
